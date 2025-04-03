@@ -1,0 +1,5 @@
+# Allow specific files
+!*.pdf
+!promptchain.py
+!README*
+!/.gitignore
